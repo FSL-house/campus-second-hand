@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#eef3fb"/>
+  <rect x="110" y="90" width="170" height="220" rx="12" fill="#4f7cff"/>
+  <rect x="320" y="90" width="170" height="220" rx="12" fill="#8fb1ff"/>
+  <rect x="285" y="90" width="24" height="220" rx="8" fill="#2f5fd6"/>
+  <text x="300" y="340" text-anchor="middle" font-size="34" fill="#34495e" font-family="Arial, Microsoft YaHei, sans-serif">Java 核心技术</text>
+</svg>
