@@ -11,7 +11,7 @@
 - 后端：`Spring Boot + MyBatis-Plus + MySQL + JWT`
 - 前端：`Vue3 + Vite + Element Plus + Axios`
 
-代码尽量保持简单清晰，适合初学者阅读、运行、讲解和二次开发。
+代码简单清晰，适合初学者阅读、运行、讲解和二次开发。
 
 ## 技术栈
 
